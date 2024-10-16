@@ -1,3 +1,4 @@
+ola lisos 👋
 - 👋 Hi, I’m @JoãoPedro
 - 👀 I’m interested in aprender mais sobre segurança de sistema
 - 🌱 I’m currently learning sobre programação
@@ -7,7 +8,9 @@
 - ⚡ Fun fact:
 - 😡 hoje em dia eu trabalho em uma clinica de medicina do trabalho
 
-<!---
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+          
+
 joaomba/joaomba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
